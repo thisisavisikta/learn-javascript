@@ -25,4 +25,6 @@ const counter = createCounter(10);
 counter(); // Output: Before:10, Returned:10, After:11
 counter(); // Output: Before:11, Returned:11, After:12
 counter(); // Output: Before:12, Returned:12, After:13
+
+This is a closure function.
 */
